@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://thumbs.dreamstime.com/z/java-programming-concept-virtual-machine-server-room-background-java-programming-concept-virtual-machine-server-room-140916813.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Akash Panchani</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
