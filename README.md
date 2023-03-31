@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5616AQHcTmLPY62S5g/profile-displaybackgroundimage-shrink_200_800/0/1597757303630?e=2147483647&v=beta&t=_12-uirb88imnutsaQCHbeHKcA_HZnZnSGyqqBhshD0)](https://rishavchanda.io)
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Akash Panchani</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
