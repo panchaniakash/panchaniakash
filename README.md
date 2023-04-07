@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png)](https://rishavchanda.io)
+[![MasterHead](https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Akash Panchani</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
