@@ -1,4 +1,4 @@
-[![MasterHead](https://e0.pxfuel.com/wallpapers/259/295/desktop-wallpaper-eat-sleep-code-repeat-black-background-technology.jpg)](https://rishavchanda.io)
+[![MasterHead](https://cdn.wallpapersafari.com/88/67/wC4uHG.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Akash Panchani</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
