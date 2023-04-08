@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.wallpapersafari.com/88/67/wC4uHG.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Akash Panchani</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="code" width="450" height="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panchaniakash&label=Profile%20views&color=0e75b6&style=flat" alt="panchaniakash" /> </p>
 
