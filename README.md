@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akash61p@gmail.com**
 
-- 📄 Know about my experiences [Akash - Resume - Java Developer](https://drive.google.com/file/d/19b0dbYDMsRR4GlkdKLFVZZ1FGEqOKTu5/view?usp=sharing)
+- 📄 Know about my experiences [Akash - Resume - Java Developer](https://drive.google.com/file/d/1NSNKCtMqHIbVFCZEeUbR_T-E7fn1TEDN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
