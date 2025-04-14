@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.wallpapersafari.com/88/67/wC4uHG.jpg)]
+![MasterHead](https://cdn.wallpapersafari.com/88/67/wC4uHG.jpg)
 <h1 align="center">Hi 👋, I'm Akash Panchani</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="code" width="450" height="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
