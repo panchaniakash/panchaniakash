@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Akash%20Panchani&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20|%20Azure%20Specialist&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Akash%20Panchani&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud%20and%20DevOps%20Engineer%20%7C%20Azure%20Specialist&descAlignY=55&descAlign=50)
 
 <div align="center">
 
@@ -16,26 +16,35 @@
 
 ## 🎯 About Me
 
-```yaml
-name: Akash Panchani
-role: Azure DevOps Engineer @ Adani Enterprises
-location: Ahmedabad, India
-experience: 3+ years
+<table>
+<tr>
+<td>
 
-current_focus:
-  - Designing scalable cloud architectures on Azure
-  - Building robust CI/CD pipelines for microservices
-  - Implementing infrastructure automation with Terraform
-  - Enhancing observability and monitoring solutions
+**👨‍💻 Who I Am**
 
-interests:
-  - Cloud Native Technologies
-  - GitOps & Platform Engineering
-  - MLOps & AIOps
-  - Open Source Contributions
+I’m Akash Panchani, an Azure DevOps Engineer at Adani Enterprises with 3+ years of experience designing scalable cloud architectures and building robust CI/CD pipelines.
 
-philosophy: "Automate everything, monitor proactively, deploy confidently"
-```
+**🔭 What I Do**
+
+- Design scalable cloud architectures on Azure
+- Build robust CI/CD pipelines for microservices
+- Implement infrastructure automation with Terraform
+- Enhance observability and monitoring solutions
+
+**💡 My Interests**
+
+- Cloud Native Technologies
+- GitOps & Platform Engineering
+- MLOps & AIOps
+- Open Source Contributions
+
+**🎯 Philosophy**
+
+*“Automate everything, monitor proactively, deploy confidently”*
+
+</td>
+</tr>
+</table>
 
 -----
 
@@ -132,14 +141,52 @@ philosophy: "Automate everything, monitor proactively, deploy confidently"
 
 ## 🌱 Currently Exploring
 
-```python
-current_learning = {
-    "MLOps": ["Model Deployment", "Pipeline Automation", "ML Monitoring"],
-    "AIOps": ["AI-driven Operations", "Intelligent Alerting", "Predictive Analytics"],
-    "Platform Engineering": ["Internal Developer Platforms", "Golden Paths", "Self-Service"],
-    "Cloud Native": ["Service Mesh", "eBPF", "WebAssembly"]
-}
-```
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 MLOps
+
+- Model Deployment Automation
+- ML Pipeline Orchestration
+- Model Monitoring & Performance
+- Feature Store Implementation
+
+</td>
+<td width="50%">
+
+### 🔮 AIOps
+
+- AI-driven Operations
+- Intelligent Alerting Systems
+- Predictive Analytics
+- Anomaly Detection
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏗️ Platform Engineering
+
+- Internal Developer Platforms
+- Golden Path Templates
+- Self-Service Infrastructure
+- Developer Experience
+
+</td>
+<td width="50%">
+
+### ☁️ Cloud Native
+
+- Service Mesh (Istio, Linkerd)
+- eBPF for Observability
+- WebAssembly
+- CNCF Ecosystem
+
+</td>
+</tr>
+</table>
 
 -----
 
@@ -172,7 +219,7 @@ I’m always interested in:
 
 **“Automate relentlessly, monitor proactively, deploy confidently, and innovate continuously”**
 
-![Visitor Count](https://profile-counter.glitch.me/akashpanchani/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=akashpanchani&color=blueviolet&style=for-the-badge)
 
 </div>
 
