@@ -207,8 +207,6 @@ I’m always interested in:
 
 -----
 
-### ⭐ If you find my work interesting, feel free to star my repositories!
-
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
