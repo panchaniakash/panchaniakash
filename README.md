@@ -1,44 +1,179 @@
-![MasterHead](https://cdn.wallpapersafari.com/88/67/wC4uHG.jpg)
-<h1 align="center">Hi 👋, I'm Akash Panchani</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="code" width="450" height="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Akash%20Panchani&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20|%20Azure%20Specialist&descAlignY=55&descAlign=50)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=panchaniakash&label=Profile%20views&color=0e75b6&style=flat" alt="panchaniakash" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 👋 Welcome to my DevOps Universe!
 
-- 🌱 I’m currently learning **Cloud & Gen. AI**
+🚀 **Architecting Cloud Solutions | Automating Infrastructure | Building Reliable Systems**
 
-- 💬 Ask me about **Azure, AWS, DevOps, Jenkins, Terraform, Docker, Kubernetes, Java, Spring Boot, SQL**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-panchani/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashpanchaniwork@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Ahmedabad%2C%20India-green?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
-- 📫 How to reach me **akashpanchaniwork@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akash panchani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash panchani" height="30" width="40" /></a>
-<a href="https://instagram.com/immakassh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="01_akashpatel" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@akash61p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@akash61p" height="30" width="40" /></a>
-</p>
+-----
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://learn.microsoft.com/en-us/training/azure/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/training/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> </a>
-  <a href="https://developer.hashicorp.com/terraform/tutorials" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/> </a>
-  <a href="https://docs.docker.com/get-started/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Docker" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io/docs/tutorials/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  
+## 🎯 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panchaniakash&show_icons=true&locale=en&layout=compact" alt="panchaniakash" /></p>
+```yaml
+name: Akash Panchani
+role: Azure DevOps Engineer @ Adani Enterprises
+location: Ahmedabad, India
+experience: 3+ years
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panchaniakash&show_icons=true&locale=en" alt="panchaniakash" /></p>
+current_focus:
+  - Designing scalable cloud architectures on Azure
+  - Building robust CI/CD pipelines for microservices
+  - Implementing infrastructure automation with Terraform
+  - Enhancing observability and monitoring solutions
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panchaniakash&" alt="panchaniakash" /></p>
+interests:
+  - Cloud Native Technologies
+  - GitOps & Platform Engineering
+  - MLOps & AIOps
+  - Open Source Contributions
+
+philosophy: "Automate everything, monitor proactively, deploy confidently"
+```
+
+-----
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### ☁️ Cloud Platforms
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🚀 DevOps & CI/CD
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+### 🐳 Containers & Orchestration
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### 📊 Monitoring & Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+### 🏗️ Infrastructure as Code
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![ARM Templates](https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 💻 Languages & Scripting
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+-----
+
+## 🏆 Certifications
+
+<div align="center">
+
+[![AZ-400](https://img.shields.io/badge/Microsoft_Certified-DevOps_Engineer_Expert-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/certifications/devops-engineer/)
+[![AZ-204](https://img.shields.io/badge/Microsoft_Certified-Azure_Developer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-developer/)
+![HackerRank](https://img.shields.io/badge/HackerRank-Java_Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+</div>
+
+-----
+
+## 💼 Professional Highlights
+
+### 🎯 Current Role: Azure DevOps Engineer @ Adani Enterprises
+
+- 🔄 Architected **CI/CD pipelines** for 10+ microservices, reducing deployment time by **40%**
+- ⚡ Deployed containerized apps to **AKS** with Helm & GitOps for zero-downtime releases
+- 🏗️ Automated infrastructure with **Terraform**, cutting manual effort by **50%**
+- 🔐 Integrated security scanning in pipelines for proactive risk detection
+- 📊 Implemented observability with **Azure Monitor & Splunk** for real-time insights
+
+### 📈 Key Achievements
+
+- ✅ Reduced environment provisioning time by **60%** through automation
+- ✅ Standardized IaC deployment across Dev, QA & Production environments
+- ✅ Enhanced application performance by **30%** through query optimization
+- ✅ Enabled seamless scaling with dynamic HPA on Kubernetes
+
+-----
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashpanchani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashpanchani&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashpanchani&theme=tokyonight&hide_border=true)
+
+</div>
+
+-----
+
+## 🌱 Currently Exploring
+
+```python
+current_learning = {
+    "MLOps": ["Model Deployment", "Pipeline Automation", "ML Monitoring"],
+    "AIOps": ["AI-driven Operations", "Intelligent Alerting", "Predictive Analytics"],
+    "Platform Engineering": ["Internal Developer Platforms", "Golden Paths", "Self-Service"],
+    "Cloud Native": ["Service Mesh", "eBPF", "WebAssembly"]
+}
+```
+
+-----
+
+## 🤝 Let’s Collaborate!
+
+I’m always interested in:
+
+- 🚀 **DevOps & Cloud** projects and best practices
+- 🔧 **Open Source** contributions and community building
+- 💡 **Knowledge sharing** through blogs and tech discussions
+- 🌍 **Networking** with fellow cloud enthusiasts
+
+### 📫 Reach Out
+
+<div align="center">
+
+**💼 Open to DevOps, Cloud, and Platform Engineering opportunities**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-panchani/)
+[![Email](https://img.shields.io/badge/Drop_me_an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashpanchaniwork@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_me_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashpanchani)
+
+</div>
+
+-----
+
+<div align="center">
+
+### 💭 Motto
+
+**“Automate relentlessly, monitor proactively, deploy confidently, and innovate continuously”**
+
+![Visitor Count](https://profile-counter.glitch.me/akashpanchani/count.svg)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
