@@ -125,20 +125,6 @@ I’m Akash Panchani, an Azure DevOps Engineer at Adani Enterprises with 3+ year
 
 -----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashpanchani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashpanchani&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashpanchani&theme=tokyonight&hide_border=true)
-
-</div>
-
------
-
 ## 🌱 Currently Exploring
 
 <table>
@@ -219,7 +205,9 @@ I’m always interested in:
 
 **“Automate relentlessly, monitor proactively, deploy confidently, and innovate continuously”**
 
-![Profile Views](https://komarev.com/ghpvc/?username=akashpanchani&color=blueviolet&style=for-the-badge)
+-----
+
+### ⭐ If you find my work interesting, feel free to star my repositories!
 
 </div>
 
